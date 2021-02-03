@@ -1,12 +1,12 @@
 body {
-  background-color: rgb(177, 255, 225);
+  background-color: rgba(177, 255, 225, 0.685);
 }
 
 h1 {
-  color: rgb(128, 0, 11);
+  color: rgb(0, 0, 0);
   text-align: center;
 }
-a {
+a:hover {
   background-color: aliceblue;
   text-shadow: antiquewhite;
 }
