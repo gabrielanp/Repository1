@@ -10,3 +10,6 @@ a:hover {
   background-color: rgb(229, 245, 12);
   
 }
+img {
+  align-items: center;
+}
