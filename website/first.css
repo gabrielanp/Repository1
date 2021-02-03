@@ -6,3 +6,8 @@ h1 {
   color: navy;
   text-align: center;
 }
+a:hover {
+  background-color: aliceblue;
+  text-shadow: antiquewhite;
+
+}
