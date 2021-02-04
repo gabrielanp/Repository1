@@ -4,6 +4,8 @@ body {
   margin:0;
   background-image: url(passfoto.jpg);
   background-repeat: no-repeat;
+  width: auto;
+  height: auto;
 
 }
 h1>div {
