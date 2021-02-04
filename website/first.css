@@ -14,17 +14,19 @@ h1 {
   margin: 0;
 
 }
+h2 {
+  background-color: wheat;
+}
 
 p {
   width: 200px;
-  height: 200px;
-  border: 20px;
+  border-width: 20px;
   border-color: seagreen;
  
 }
 #p1 {
   background-color:teal;
-  float:right;
+  
   
 }
 #p2 {
