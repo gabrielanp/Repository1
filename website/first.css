@@ -2,13 +2,14 @@ body {
   background-color: rgba(255, 192, 203, 0.356);
   text-align: center;
   margin:0;
-  background-image: url(passfoto.jpg) no-repeat;
+  background-image: url(passfoto.jpg);
+  background-repeat: no-repeat;
 
 }
 h1>div {
   background-color: plum;
   
-  height: 150px;
+  height: 100px;
 }
 
 h1 {
