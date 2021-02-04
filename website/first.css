@@ -4,15 +4,20 @@ body {
   margin:0;
 
 }
-
+h1>div {
+  background-color: plum;
+}
 
 h1 {
   color: rgb(0, 0, 0);
-  background-color: plum;
+  background-color: royalblue;
+  box-sizing: border-box;
+  margin:0;
 }
+
 p {
-  margin-right:350px;
-  margin-left: 350px;
+  margin-right:150px;
+  margin-left: 150px;
   margin-top: 10px;
   margin-bottom: 10px;
   text-align: justify;
