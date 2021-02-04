@@ -6,8 +6,9 @@ body {
 
 
 }
-h1>div {
+span {
   background-color:powderblue;
+  margin:0;
 }
 h1 {
   background-color: salmon;
