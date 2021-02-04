@@ -8,7 +8,7 @@ body {
   margin:0;
   border:rgb(0, 0, 0);
   background-image: url(DSC00430.jpg);
-  
+  background-repeat: no-repeat;
 }
 
 h1 {
