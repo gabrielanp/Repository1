@@ -29,21 +29,6 @@ p {
   
  
 }
-#p1 {
-  background-color:teal;
-  
-  
-}
-#p2 {
-  background-color: springgreen;
-}
-#p3 {
-  background-color: tomato;
-}
-a:hover {
-  background-color: palevioletred;
-  
-}
 
 div {
   align-items: center;
