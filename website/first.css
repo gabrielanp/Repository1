@@ -25,14 +25,13 @@ h2 {
 p {
   width: 700px;
   background-color: antiquewhite;
-  border-width: 20px;
-  border-color: seagreen;
+  border: 20px seagreen;
   
  
 }
 #p1 {
   background-color:teal;
-  border-color: aqua;
+  
   
 }
 #p2 {
