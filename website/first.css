@@ -6,6 +6,7 @@ body {
 #mm { 
   background-image: url(passfoto.jpg);
   background-repeat: no-repeat;
+  background-position: left;
  
    /* Center and scale the image nicely */
    background-position: center;
