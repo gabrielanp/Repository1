@@ -20,9 +20,10 @@ h2 {
 }
 
 p {
-  width: 200px;
+  width: 700px;
   border-width: 20px;
   border-color: seagreen;
+  align-items: center;
  
 }
 #p1 {
