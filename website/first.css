@@ -11,7 +11,7 @@ h1>div {
 }
 h1 {
   background-color: salmon;
-
+  margin: 0;
 
 }
 
@@ -24,6 +24,7 @@ p {
 }
 #p1 {
   background-color: silver;
+  float:right;
 }
 #p2 {
   background-color: springgreen;
