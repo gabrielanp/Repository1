@@ -20,11 +20,11 @@ p {
   height: 200px;
   border: 20px;
   border-color: seagreen;
-  float:left;
-  margin: 10px
+ 
 }
 #p1 {
   background-color:teal;
+  float:right;
   
 }
 #p2 {
