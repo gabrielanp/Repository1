@@ -9,6 +9,13 @@ body {
   border:rgb(0, 0, 0);
   background-image: url(DSC00430.jpg);
   background-repeat: no-repeat;
+   /* Full height */
+   height: 100%;
+
+   /* Center and scale the image nicely */
+   background-position: center;
+   
+   background-size: cover;
 }
 
 h1 {
