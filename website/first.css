@@ -23,6 +23,10 @@ h1>div {
   margin: 10px;
 
 }
+h2,p {
+  margin:100;
+  text-align: justify;
+}
 a:hover {
   background-color: palevioletred;
   
