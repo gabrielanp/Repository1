@@ -2,25 +2,26 @@ body {
   background-color: rgba(255, 192, 203, 0.356);
   text-align: center;
   margin:0;
-  padding:10px;
+  padding:10px
+  ;
 }
 
 h1 {
   color: rgb(0, 0, 0);
-  text-align: center;
+  
   background-color: palevioletred;
   padding: 0;
   border: 5px solid black;
   margin: 40px;
   width: 500px;
-  align-items: center;
+  text-align: center;
 
   
 }
 h1>div {
   background-color: plum;
   padding: 20px;
-  border:10px solid black;
+  border:10px solid purple;
   margin: 10px;
 
 }
