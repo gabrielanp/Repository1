@@ -8,17 +8,9 @@ body {
 
 h1 {
   color: rgb(0, 0, 0);
-  
-  
-  
-}
-h1>div {
   background-color: plum;
-  
- 
-
 }
-h2,p {
+p {
   margin-right:350px;
   margin-left: 350px;
   margin-top: 10px;
