@@ -16,15 +16,16 @@ h1 {
 }
 
 p {
-  width: 400px;
+  width: 200px;
   height: 200px;
-  border: 10px;
+  border: 20px;
   border-color: seagreen;
-
+  float:left;
+  margin: 10px
 }
 #p1 {
   background-color: silver;
-  float:right;
+  
 }
 #p2 {
   background-color: springgreen;
