@@ -9,10 +9,11 @@ h1 {
   color: rgb(0, 0, 0);
   text-align: center;
   background-color: palevioletred;
-  padding: 10px;
+  padding: 0;
   border: 5px solid black;
   margin: 40px;
   width: 500px;
+  align-items: center;
 
   
 }
