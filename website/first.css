@@ -6,21 +6,18 @@ body {
 
 
 }
-span {
-  background-color:powderblue;
-  margin:0;
-}
+
 h1 {
-  background-color: salmon;
+  background-color: plum;
   margin: 0;
+  height: 150px;
 
 }
 div>h1 {
-  background-color: yellowgreen;
+  background-color: purple;
+  height:70px;
 }
-h2 {
-  background-color: wheat;
-}
+
 
 p {
   
@@ -31,4 +28,7 @@ p {
 
 div {
   align-items: center;
+}
+a:hover {
+  background-color: steelblue;
 }
