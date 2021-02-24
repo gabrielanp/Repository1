@@ -53,4 +53,8 @@ ul {
   #content {
     max-width: 500px;
   }
+  #reason {
+    margin-left: 300px;
+    margin-right: 300px;
+  }
 }
